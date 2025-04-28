@@ -1,6 +1,6 @@
 # ScannReg
 
-![ScannReg Banner](#)
+![Image](https://github.com/user-attachments/assets/b2aefe81-13e1-4618-b843-d22aad122115)
 
 **ScannReg** es una herramienta de escaneo de redes modular e interactiva basada en Python y Nmap, pensada para profesionales de ciberseguridad, pentesters, administradores de sistemas y entusiastas del hacking ético.
 
