@@ -22,6 +22,7 @@ ScannReg permite realizar diferentes tipos de escaneos de red de forma automáti
   - Escaneo de servicios UDP.
   - Escaneo sigiloso para evadir IDS/IPS.
   - Escaneo de vulnerabilidades mediante scripts NSE.
+    ![Image](https://github.com/user-attachments/assets/947ad416-2ad0-4480-8e45-21f986604088)
 - **Resultados organizados:**
   - Estado de los hosts.
   - Protocolos detectados (TCP/UDP).
